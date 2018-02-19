@@ -1,9 +1,5 @@
  
-//123456
-
-
-  
-
+//1234567
 
 
 import java.util.Scanner;
