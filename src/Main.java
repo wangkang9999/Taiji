@@ -1,7 +1,5 @@
-//用于 手机游戏太极迷阵   
-//遍历所有转换可能
-//时间复杂度  n^2
-
+ 
+//1111
 import java.util.Scanner;
 
 public class Main {
