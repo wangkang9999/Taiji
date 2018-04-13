@@ -1,8 +1,5 @@
- //wk
-//1234567
-
-
-
+//wk
+//for a game tai ji mi zhen
 
 import java.util.Scanner;
 
